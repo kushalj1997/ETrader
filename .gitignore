@@ -1,0 +1,8 @@
+.vscode/
+e-trade-app-api-key.txt
+e-trade-app-api-secret.txt
+e-trade-prod-api-key.txt
+e-trade-prod-api-secret.txt
+e-trade-sandbox-api-key.txt
+e-trade-sandbox-api-secret.txt
+etrade-env
